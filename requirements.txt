@@ -1,0 +1,11 @@
+yfinance
+pandas
+prophet
+tensorflow
+scikit-learn
+joblib
+fastapi
+uvicorn
+streamlit
+matplotlib
+graphviz
