@@ -1,0 +1,17 @@
+# ---------- python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---------- training artifacts (regenerable, and LSTM .h5 files get large) ----------
+models/
+logs/
+
+# ---------- notebooks ----------
+.ipynb_checkpoints/
+
+# ---------- editor ----------
+.vscode/
+.idea/
